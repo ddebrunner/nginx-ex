@@ -54,7 +54,7 @@
             "from": {
               "kind": "ImageStreamTag",
               "namespace": "${NAMESPACE}",
-              "name": "python:3.6"
+              "name": "python-36-centos7:latest"
             }
           }
         },
