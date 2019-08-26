@@ -146,7 +146,7 @@
               "automatic": true,
               "containerNames": [
                 "nginx-example"
-                "nginx-sidecar"
+                "dan-py2"
               ],
               "from": {
                 "kind": "ImageStreamTag",
@@ -176,7 +176,7 @@
                 "image": " ",
                 "ports": [
                   {
-                    "containerPort": 8080
+                    "containerPort": 8888
                   }
                 ],
                 "readinessProbe": {
