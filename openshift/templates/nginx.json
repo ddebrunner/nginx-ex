@@ -146,6 +146,7 @@
               "automatic": true,
               "containerNames": [
                 "nginx-example"
+                "nginx-sidecar"
               ],
               "from": {
                 "kind": "ImageStreamTag",
